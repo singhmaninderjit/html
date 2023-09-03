@@ -1,3 +1,3 @@
 # html
 html code comes here. my first got repo.
-author - maninderjit singh
+<p>author - maninderjit singh<p>
