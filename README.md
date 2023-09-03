@@ -1,2 +1,3 @@
 # html
-html code
+html code comes here. my first got repo.
+author - maninderjit singh
